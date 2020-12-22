@@ -10,6 +10,7 @@
 - ls, listar ut alla filer i mappen.
 - touch, skapar en ny fil.
 - cat, läser och printar ut den önskade filen i terminalen.
+- pwd, visar dig vart i filerna du står
 
 # Använd versionshantering av kod
 - Allt i detta repository har blivit commitat och pushat från terminalen i Putty.
