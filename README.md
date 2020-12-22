@@ -16,5 +16,5 @@
 - Allt i detta repository har blivit commitat och pushat från terminalen i Putty.
 
 # Python script
-- Ligger i Main.py och Time.py
+- Ligger i Main.py och Namnsdag.Service
 
