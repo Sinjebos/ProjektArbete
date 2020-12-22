@@ -1,0 +1,1 @@
+{'datum': '2020-12-22', 'veckodag': 'Tisdag', 'arbetsfri dag': 'Nej', 'röd dag': 'Nej', 'vecka': '52', 'dag i vecka': '2', 'namnsdag': ['Natanael', 'Jonatan'], 'flaggdag': ''}
