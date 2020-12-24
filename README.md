@@ -1,3 +1,12 @@
+# Rapport
+- Mitt tankesätt bakom koden är inte så komplicerad med att den är väldigt kort.
+men det viktigaste i det hela kände jag att den ska kolla varje timma om timmen är 00 varav nästa dag så namnsdagen och allt annat hämtat från hemsidan uppdateras.
+
+
+
+
+
+
 # Beskriv tjänster i linux
 - Python, Genom att skriva python/python3 och "filnamn" så kan du köra den önskade filen direkt i terminalen.
 - Init.d, Första processen i Linux.
