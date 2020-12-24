@@ -1,10 +1,6 @@
 # Rapport
 - Mitt tankesätt bakom koden är inte så komplicerad med att den är väldigt kort.
-men det viktigaste i det hela kände jag att den ska kolla varje timma om timmen är 00 varav nästa dag så namnsdagen och allt annat hämtat från API:n  "https://sholiday.faboul.se/dagar/v2.1/" uppdateras.
-
-
-
-
+men kände att  det viktigaste är "if current_hour == 00" och "time.sleep(3600)" vilket kolla varje timma om timmen är 00 så namnsdagen och allt annat hämtat från API:n  "https://sholiday.faboul.se/dagar/v2.1/" uppdateras.
 
 
 # Beskriv tjänster i linux
