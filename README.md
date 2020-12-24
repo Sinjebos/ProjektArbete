@@ -1,6 +1,6 @@
 # Rapport
 - Mitt tankesätt bakom koden är inte så komplicerad med att den är väldigt kort.
-men det viktigaste i det hela kände jag att den ska kolla varje timma om timmen är 00 varav nästa dag så namnsdagen och allt annat hämtat från hemsidan uppdateras.
+men det viktigaste i det hela kände jag att den ska kolla varje timma om timmen är 00 varav nästa dag så namnsdagen och allt annat hämtat från API:n  "https://sholiday.faboul.se/dagar/v2.1/" uppdateras.
 
 
 
