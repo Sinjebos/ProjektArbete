@@ -2,6 +2,7 @@ import requests
 import time
 import datetime
 while True:
+    # Kollar dagens tid och datum som senare används att kolla vilken timma det är
     current_hour = datetime.datetime.now()
     # Hämtar information från hemsidan och sparar det i en lista
     api_get = requests.get('http://sholiday.faboul.se/dagar/v2.1/').json()
